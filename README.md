@@ -304,15 +304,6 @@ source .venv/bin/activate
 ```
 ./run_rl_swarm.sh
 ```
-
-* Now follow all the process from [5️⃣ Run the swarm Node](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide/edit/main/README.md#5%EF%B8%8F%E2%83%A3-run-the-swarm-node)
-
-* If u still Got terminated error then just restart 1-2 times: or just wait few minutes:
-
-
----
-
-
 <div align="center">
 
 # 🐝SWARM Role & TG bot Set-Up 
@@ -410,9 +401,9 @@ gswarm --version
 gswarm
 ```
 
-* Enter Your BotToken from : [2.1 Create a Telegram Bot:](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide?tab=readme-ov-file#21-create-a-telegram-bot)
+* Enter Your BotToken from : [2.1 Create a Telegram Bot:
 
-* Enter Your ChainId From : [2.2 Get Your Chat ID:](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide?tab=readme-ov-file#22-get-your-chat-id)
+* Enter Your ChainId From : [2.2 Get Your Chat ID:
 
 * Enter Your EOA address From: [Gensyn Dashboard](https://dashboard.gensyn.ai/)      --Login with your gensyn Mail:
 
@@ -440,7 +431,7 @@ gswarm
 <img width="2086" height="1241" alt="image" src="https://github.com/user-attachments/assets/d8ec9220-26a7-4809-ad38-71173063260e" />
 
 
-✔️✔️✔️Done:
+✔️Done:
 
 
 ---
@@ -475,22 +466,9 @@ git pull origin main
 ```
 
 
-* Start the swarm Node 🚀
+* Start the swarm Node 
 
 ```
 ./run_rl_swarm.sh
 ```
 
-* Now follow all the process from [5️⃣ Run the swarm Node](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide/edit/main/README.md#5%EF%B8%8F%E2%83%A3-run-the-swarm-node)
-
-* If u got terminated then follow: [6️⃣Resolve Terminated Error](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide/edit/main/README.md#6%EF%B8%8F%E2%83%A3-resolve-terminated-error)
-
-<pre>
-
-👉 Join TG for more Updates: https://telegram.me/cryptogg
-
-If U have any issue then open a issue on this repo or Dm me on TG~
-
-Thank U! 👨🏻‍💻    Happy Coding💗
-
-</pre>
